@@ -1,0 +1,12 @@
+@startuml
+    
+    entity "ventajas_ia" as ventajas_ia{
+        *id-consejo : INT <<PK>>
+        --
+        *titulo: VARCHAR(200)
+        *descricion: VARCHAR(200)
+        *categoria: VARCHAR(200)
+    }
+
+
+@enduml
