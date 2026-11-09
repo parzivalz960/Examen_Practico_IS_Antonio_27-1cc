@@ -2,3 +2,7 @@ body{
     background-color: rgb(38, 38, 146);
     color: whitesmoke;
 }
+
+nav{
+    background-color: yellow !important;
+}
